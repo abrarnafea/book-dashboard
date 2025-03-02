@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "book-app-f302f",
+    "production": "book-app-f302f"
+  },
+  "targets": {},
+  "etags": {}
+}
