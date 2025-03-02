@@ -48,11 +48,3 @@ const page =  async ({ params }: { params: Promise<{ uid: string }> }) => {
 }
 
 export default page
-export async function generateStaticParams() {
-  // Replace these example UIDs with your actual data or fetch them from an API
-  return [
-    { uid: "123" },
-    { uid: "456" },
-    { uid: "789" }
-  ];
-}
